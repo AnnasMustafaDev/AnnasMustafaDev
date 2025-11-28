@@ -8,7 +8,7 @@
 ---
 ###  Short Intro
 
-#### I'm an AI Engineer with hands-on experience building **multi-agent LLM systems, advanced RAG architectures, and scalable backend pipelines**.  
+#### I'm an AI Engineer with experience on building **multi-agent LLM systems, advanced RAG architectures, and scalable backend pipelines**.  
 #### My mission → build production-ready AI that **thinks, reasons, and executes — not just responds.**
 ---
 
