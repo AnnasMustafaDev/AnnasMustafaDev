@@ -6,19 +6,15 @@
 </p>
 
 ---
-
 ###  Short Intro
 I'm an AI Engineer with hands-on experience building **multi-agent LLM systems, advanced RAG architectures, and scalable backend pipelines**.  
 My mission → build production-ready AI that **thinks, reasons, and executes — not just responds.**
 ---
 
 ###  What I'm Working On
--  Multi-Agent Conversational Systems using LangGraph & CrewAI  
--  Production-Grade RAG Evaluation & MLOps Observability  
--  LLM-as-Judge Frameworks and Model Tracing Pipelines  
+-  Production-Grade LLM Evaluation & MLOps Observability  
 -  Self-refining A2A agents + automation for legal workflows  
 -  Exploring reflexive reasoning, tool-calling, MCP and autonomous AI loops
--  Object detection and tracking using yolo v8
 -  Temporal learning algorithms
 -  Fine-tuning LLM's using RLHF
 
@@ -29,7 +25,6 @@ Outside of code — I’m human too. 😄
 🥾 Love hiking & long nature walks  
 📸 Photography is therapy  
 ✈️ I travel to explore cultures  
-🍳 Sometimes I cook better than I code  
 💻 And yes — I break code just to fix it cleaner
 
 ---
