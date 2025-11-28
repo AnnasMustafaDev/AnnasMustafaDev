@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hey, I'm Annas Mustafa</h1>
+<h1 align="center">👋 Hey, I'm Annas</h1>
 
 <p align="center">
   Conversational AI Engineer • Multi-Agent Systems • RAG Architect  
