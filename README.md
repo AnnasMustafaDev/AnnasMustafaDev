@@ -1,10 +1,4 @@
 <h1 align="center">👋 Hey, I'm Annas</h1>
-<p align="center">
-  Conversational AI Engineer • Multi-Agent Systems • RAG Architect  
-  <br>
-  Based in Berlin 🇩🇪 | Building Reliable AI at Scale
-</p>
-
 ---
 ###  Short Intro
 
