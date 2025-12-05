@@ -21,7 +21,7 @@ Outside of code — I’m human too. 😄
 ✈️ I travel to explore cultures  
 💻 And yes — I break code just to fix it cleaner
 
----
+--- 
 
 ###  Tech Stack
 #### **Core AI & LLM Ecosystem**
@@ -40,5 +40,5 @@ n8n · MongoDB · PostgreSQL · LoRA/QLoRA · Voice AI (Whisper + ElevenLabs)
 📧 Email: **annasmustafa77@gmail.com**  
 
 ---
-⭐ _If you like my work — consider following or collaborating._  
+⭐ _If you like my work — consider following or collaborating._
 Let's build something intelligent together.
