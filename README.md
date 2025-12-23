@@ -1,8 +1,7 @@
 <h1 align="center">👋 Hey, I'm Annas</h1>
 
-### Intro
 #### I'm an AI Engineer with experience on building **multi-agent LLM systems, advanced RAG architectures, and scalable backend pipelines**.  
-#### My mission → build production-ready AI that **thinks, reasons, and executes — not just responds.**
+#### I build production-ready AI that **thinks, reasons, and executes — not just responds.**
 ---
 
 ###  What I'm Working On
@@ -11,6 +10,7 @@
 -  Exploring reflexive reasoning, tool-calling, MCP and autonomous AI loops
 -  Temporal learning algorithms
 -  Fine-tuning LLM's using RLHF
+-  Voice assitants
 
 ---
 
