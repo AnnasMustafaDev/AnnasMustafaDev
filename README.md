@@ -1,43 +1,18 @@
+# 💫 About Me:
+I'm an AI Engineer with experience on building multi-agent LLM systems, advanced RAG architectures, and scalable backend pipelines.<br>I build production-ready AI that thinks, reasons, and executes — not just responds.<br>What I'm Working On<br>Production-Grade LLM Evaluation & MLOps Observability<br>Self-refining A2A agents + automation for legal workflows<br>Exploring reflexive reasoning, tool-calling, MCP and autonomous AI loops<br>Temporal learning algorithms<br>Fine-tuning LLM's using RLHF<br>Voice assitants<br>Fun Fact & Interests<br>Outside of code — I’m human too. 😄<br>🥾 Love hiking & long nature walks<br>📸 Photography is therapy<br>✈️ I travel to explore cultures<br>💻 And yes — I break code just to fix it cleaner<br><br>Tech Stack<br>Core AI & LLM Ecosystem<br>LangChain · LangGraph · CrewAI · LlamaIndex · OpenAI · Claude · Gemini · Vector DBs · RAG Architectures<br><br>Backend & Engineering<br>Python · FastAPI (Sync/Async) · REST APIs · SQL · TypeScript · Next.js<br><br>MLOps / LLMOps<br>Docker · Git/GitHub Actions (CI/CD) · Azure/AWS/GCP · Arize Phoenix · MLflow · W&B · Model Versioning<br><br>Other Tools<br>n8n · MongoDB · PostgreSQL · LoRA/QLoRA · Voice AI (Whisper + ElevenLabs)<br><br>Contact Me<br>💼 LinkedIn: https://linkedin.com/in/annas-mustafa<br>📧 Email: annasmustafa77@gmail.com<br><br>⭐ If you like my work — consider following or collaborating. Let's build something intelligent together.
 
-#### I'm an AI Engineer with experience on building **multi-agent LLM systems, advanced RAG architectures, and scalable backend pipelines**.  
-#### I build production-ready AI that **thinks, reasons, and executes — not just responds.**
----
 
-###  What I'm Working On
--  Production-Grade LLM Evaluation & MLOps Observability  
--  Self-refining A2A agents + automation for legal workflows  
--  Exploring reflexive reasoning, tool-calling, MCP and autonomous AI loops
--  Temporal learning algorithms
--  Fine-tuning LLM's using RLHF
--  Voice assitants
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/annas.mustafa) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/linkedin.com/in/annas-mustafa) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:annasmustafa77@gmail.com) 
 
----
-
-###  Fun Fact & Interests
-Outside of code — I’m human too. 😄  
-🥾 Love hiking & long nature walks  
-📸 Photography is therapy  
-✈️ I travel to explore cultures  
-💻 And yes — I break code just to fix it cleaner
-
---- 
-
-###  Tech Stack
-#### **Core AI & LLM Ecosystem**
-LangChain · LangGraph · CrewAI · LlamaIndex · OpenAI · Claude · Gemini · Vector DBs · RAG Architectures
-#### **Backend & Engineering**
-Python · FastAPI (Sync/Async) · REST APIs · SQL · TypeScript · Next.js
-#### **MLOps / LLMOps**
-Docker · Git/GitHub Actions (CI/CD) · Azure/AWS/GCP · Arize Phoenix · MLflow · W&B · Model Versioning
-#### **Other Tools**
-n8n · MongoDB · PostgreSQL · LoRA/QLoRA · Voice AI (Whisper + ElevenLabs)  
+# 💻 Tech Stack:
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Esbuild](https://img.shields.io/badge/esbuild-%23FFCF00.svg?style=for-the-badge&logo=esbuild&logoColor=black) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![Neo4J](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white) ![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=for-the-badge&logo=elasticsearch) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=Twilio&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=AnnasMustafaDev&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=AnnasMustafaDev&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=AnnasMustafaDev&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=AnnasMustafaDev&icon=0&color=0)](https://visitcount.itsvg.in)
 
-###  Contact Me
-💼 LinkedIn: **https://linkedin.com/in/annas-mustafa**  
-📧 Email: **annasmustafa77@gmail.com**  
-
----
-⭐ _If you like my work — consider following or collaborating._
-Let's build something intelligent together.
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
