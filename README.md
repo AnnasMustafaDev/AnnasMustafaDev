@@ -1,5 +1,23 @@
-# 💫 About Me:
-I'm an AI Engineer with experience on building multi-agent LLM systems, advanced RAG architectures, and scalable backend pipelines.<br>I build production-ready AI that thinks, reasons, and executes — not just responds.<br>What I'm Working On<br>Production-Grade LLM Evaluation & MLOps Observability<br>Self-refining A2A agents + automation for legal workflows<br>Exploring reflexive reasoning, tool-calling, MCP and autonomous AI loops<br>Temporal learning algorithms<br>Fine-tuning LLM's using RLHF<br>Voice assitants<br>Fun Fact & Interests<br>Outside of code — I’m human too. 😄<br>🥾 Love hiking & long nature walks<br>📸 Photography is therapy<br>✈️ I travel to explore cultures<br>💻 And yes — I break code just to fix it cleaner<br><br>Tech Stack<br>Core AI & LLM Ecosystem<br>LangChain · LangGraph · CrewAI · LlamaIndex · OpenAI · Claude · Gemini · Vector DBs · RAG Architectures<br><br>Backend & Engineering<br>Python · FastAPI (Sync/Async) · REST APIs · SQL · TypeScript · Next.js<br><br>MLOps / LLMOps<br>Docker · Git/GitHub Actions (CI/CD) · Azure/AWS/GCP · Arize Phoenix · MLflow · W&B · Model Versioning<br><br>Other Tools<br>n8n · MongoDB · PostgreSQL · LoRA/QLoRA · Voice AI (Whisper + ElevenLabs)<br><br>Contact Me<br>💼 LinkedIn: https://linkedin.com/in/annas-mustafa<br>📧 Email: annasmustafa77@gmail.com<br><br>⭐ If you like my work — consider following or collaborating. Let's build something intelligent together.
+# 💫 About Me
+I'm an AI Engineer with experience in building multi-agent LLM systems, advanced RAG architectures, and scalable backend pipelines.
+I build production-ready AI that thinks, reasons, and executes — not just responds.
+
+
+## What I'm Working On
+- Production-Grade LLM Evaluation & MLOps Observability
+- Self-refining A2A agents + automation for legal workflows
+- Exploring reflexive reasoning, tool-calling, MCP, and autonomous AI loops
+- Temporal learning algorithms
+- Fine-tuning LLMs using RLHF
+- Voice assistants
+
+
+## Fun Fact & Interests
+Outside of code — I’m human too. 😄
+- 🥾 Love hiking & long nature walks
+- 📸 Photography is therapy
+- ✈️ I travel to explore cultures
+- 💻 And yes — I break code just to fix it cleaner
 
 
 ## 🌐 Socials:
