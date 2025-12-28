@@ -1,4 +1,3 @@
-<h1 align="center">👋 Hey, I'm </h1>
 
 #### I'm an AI Engineer with experience on building **multi-agent LLM systems, advanced RAG architectures, and scalable backend pipelines**.  
 #### I build production-ready AI that **thinks, reasons, and executes — not just responds.**
