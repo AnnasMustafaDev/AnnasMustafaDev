@@ -9,7 +9,7 @@ I build production-ready AI that thinks, reasons, and executes — not just resp
 - Exploring reflexive reasoning, tool-calling, MCP, and autonomous AI loops
 - Temporal learning algorithms
 - Fine-tuning LLMs using RLHF
-- Voice assistants
+- Voice assistants  
 
 
 ## Fun Fact & Interests
