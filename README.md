@@ -17,7 +17,7 @@ Outside of code — I’m human too. 😄
 - 🥾 Love hiking & long nature walks
 - 📸 Photography is therapy
 - ✈️ I travel to explore cultures
-- 💻 And yes — I break code just to fix it cleaner
+- 💻 And yes, I break code just to fix it cleaner
 
 
 ## 🌐 Socials: 
