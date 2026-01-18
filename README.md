@@ -13,7 +13,7 @@ I build production-ready AI that thinks, reasons, and executes ; not just respon
 
 
 ## Fun Fact & Interests
-Outside of code — I’m human too. 😄
+Outside of code, I’m human too. 😄
 - 🥾 Love hiking & long nature walks
 - 📸 Photography is therapy
 - ✈️ I travel to explore cultures
