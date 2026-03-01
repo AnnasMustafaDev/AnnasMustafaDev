@@ -5,12 +5,12 @@ I build production-ready AI that thinks, reasons, and executes ; not just respon
 
 ## What I'm Working On
 - Production-Grade LLM Evaluation & MLOps Observability
-- Self-refining A2A agents + automation for legal workflows
+- Self-refining A2A agents + automation
 - Exploring reflexive reasoning, tool-calling, MCP, and autonomous AI loops
 - Temporal learning algorithms
 - Fine-tuning LLMs using RLHF
 - Real time Voice assistants. 
-
+- Knowledge Graphs (Neo4j)
 
 ## Fun Fact & Interests
 Outside of code, I’m human too. 
