@@ -15,6 +15,7 @@ Most AI never reaches production. I work on what gets it there: per-client data 
 | [Multi-agent research assistant](https://github.com/AnnasMustafaDev/Multi-Agent-Research-Assistant-Langgraph) | Supervisor, researcher, writer and critic agents on LangGraph |
 | [LLMOps RAG evaluation](https://github.com/AnnasMustafaDev/LLMOps-RAG-Evaluation-tracing) | Trace, test and compare RAG pipelines with Arize Phoenix |
 | [Voice AI agent](https://github.com/AnnasMustafaDev/Voice-AI-Agent) | Real-time speech to LLM to speech |
+| [Dolmi](https://github.com/AnnasMustafaDev/dolmi) | Live meeting subtitles translated to English, running entirely on your PC |
 | [Forest Drive](https://github.com/AnnasMustafaDev/forest-drive) | Procedural road-trip animation with live sound and 4K MP4 export |
 
 ## Stack
