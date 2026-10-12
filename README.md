@@ -1,6 +1,6 @@
 # Annas Mustafa
 
-**AI Product Engineer at BIK GmbH, Berlin.** I build secure, multi-tenant LLM platforms that make it past the demo.
+**AI Engineer at BIK GmbH, Berlin.** I build secure, multi-tenant LLM platforms that make it past the demo.
 
 Most AI never reaches production. I work on what gets it there: per-client data isolation, encryption, knowledge graphs that ground answers in real data, and evaluation that proves each change works. Currently completing an M.Sc. in Artificial Intelligence at BTU Cottbus-Senftenberg.
 
